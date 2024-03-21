@@ -1,7 +1,7 @@
 {
 	"companyLogo": "https://lea.verou.me/logo.svg",
 	"companyName": "Lea Verou",
-	"companyAddress": "42 JavaScript Way\n\t\t\tBoston, MA 02114\n\t\t\tUSA",
+	"companyAddress": "42 JavaScript Way\nBoston, MA 02114\nUSA",
 	"companyURL": "http://lea.verou.me",
 	"companyEmail": "lea@verou.me",
 	"invoice": [
@@ -9,7 +9,7 @@
 			"id": "2",
 			"date": "2016-10-06",
 			"recipient": {
-				"name": "Widget Corp",
+				"name": "Micro Thingies",
 				"address": "1 Technology Square\nCambridge, MA 02139"
 			},
 			"currency": "$",
@@ -41,6 +41,16 @@
 					"description": "House cleaning",
 					"amount": "70"
 				}
+			]
+		},
+		{
+			"id": "3",
+			"recipient": {
+				"name": "Foo Bar"
+			},
+			"currency": "$",
+			"services": [
+				{}
 			]
 		}
 	]
